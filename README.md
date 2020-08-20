@@ -1,4 +1,4 @@
-#CSC 47300: Website Design
+# CSC 47300: Website Design
 
 This is an example project. It serves a couple purposes.
 
@@ -48,6 +48,8 @@ Within the postman workspace, navigate to Collections. You'll see a HelloWorldEx
 
 ## Submitting your HW/Projects/Assignments
 Some of your assignments will require you to push your work to github. I will require a README as well as a link to your commit.
+Here is an example of a link to a specific [commit](https://github.com/michelle-sasson/teaching_cs473/commit/c90576a2dabf0fafc37742c9240ff1f2d10563c4)
+Here is an example of viewing the entire repository from a specific [commit](https://github.com/michelle-sasson/teaching_cs473/tree/c90576a2dabf0fafc37742c9240ff1f2d10563c4)
 
 Commits in Git are immutable. Any change to a commit will create a new commit. When you push your commit to github, we can view the changes made in that commit and we can view the entire project up to that commit. When you submit your HW on blackboard, you will submit a link to a specific commit. That commit will be used to grade your assignment.
 
