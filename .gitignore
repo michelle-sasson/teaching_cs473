@@ -1,0 +1,28 @@
+.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+test-output/
+
+
+# Gradle
+.gradle/
+out/
+build/
+results/
+
+
+# Intellij
+.idea/*
+!.idea/runConfigurations
+!.idea/codeStyleSettings.xml
+*.iml
+*.iws
+classes/
+
+
+# Mac
+.DS_Store

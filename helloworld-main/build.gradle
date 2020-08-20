@@ -1,0 +1,27 @@
+plugins {
+    id 'org.springframework.boot' version '2.3.3.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+    id "io.freefair.lombok" version "5.1.1"
+}
+
+group = 'com.cs473'
+version = '0.0.1-SNAPSHOT'
+
+dependencies {
+    // needs module api-models
+    implementation project(':api-models')
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // junit5
+    testImplementation 'org.junit.jupiter:junit-jupiter-api'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    testCompile group: 'org.junit.platform', name: 'junit-platform-launcher'
+
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
+}
+
+test {
+    useJUnitPlatform()
+}

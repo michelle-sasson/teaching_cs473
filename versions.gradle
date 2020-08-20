@@ -1,0 +1,5 @@
+ext.springBoot = '2.3.3.RELEASE'
+ext.springDependencyManagement = '1.0.10.RELEASE'
+
+// feel free to upgrade this. i'm using an older version of the installation jar
+ext.lombokVersion="1.16.20"
