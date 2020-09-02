@@ -1,5 +1,7 @@
 # CSC 47300: Website Design
 
+Hello Csc 47300, Cheers to a good semester! 
+
 This is an example project. It serves a couple purposes.
 
 1. See how a project is structured
