@@ -1,1 +1,1 @@
-Eddie Ozuna, CS 473, Fall 2020
+Eddie Ozuna, CS 47300, Fall 2020
