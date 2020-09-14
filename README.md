@@ -1,5 +1,9 @@
 # CSC 47300: Website Design
 
+## Moshe Oppenheim
+## CSc 47300
+## Fall 2020
+
 This is an example project. It serves a couple purposes.
 
 1. See how a project is structured
