@@ -1,4 +1,4 @@
-Name: Haibin Mai
-Class: CSC473 Website Design
-Semester: Fall 2020
-homework
+Haibin Mai  
+CSC473 Website Design  
+Fall 2020  
+Homework Part2
