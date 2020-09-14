@@ -4,6 +4,8 @@
 ## CSc 47300
 ## Fall 2020
 
+A brand new line for my readme file. 
+
 This is an example project. It serves a couple purposes.
 
 1. See how a project is structured
