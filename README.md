@@ -1,4 +1,7 @@
-# CSC 47300: Website Design
+
+# Patrick Johnson
+# CSC47300: Website Design
+# Fall 2020
 
 This is an example project. It serves a couple purposes.
 
