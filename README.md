@@ -3,6 +3,8 @@
 # CSC47300: Website Design
 # Fall 2020
 
+This is a new line for assignment #2
+
 This is an example project. It serves a couple purposes.
 
 1. See how a project is structured
