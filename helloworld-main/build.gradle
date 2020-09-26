@@ -7,6 +7,11 @@ plugins {
 group = 'com.cs473'
 version = '0.0.1-SNAPSHOT'
 
+bootJar {
+    baseName = 'cs473-example-project'
+    version = '0.0.1'
+}
+
 dependencies {
     // needs module api-models
     implementation project(':api-models')
