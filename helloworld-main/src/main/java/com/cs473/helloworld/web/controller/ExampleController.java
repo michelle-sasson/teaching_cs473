@@ -27,6 +27,14 @@ public class ExampleController {
                 .build();
     }
 
+    @GetMapping("/hello")
+    public String hello(
+            @RequestParam(name="name") String name,
+            @RequestParam(name="id") String id)
+    {
+        return "Hello World! This is " + name + ", " + id;
+    }
+
     @GetMapping("/exception")
     public void exception(
             @RequestParam(name="status", required=false) int status) {
