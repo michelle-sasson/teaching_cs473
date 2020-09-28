@@ -1,4 +1,3 @@
 Full Name: Jia Peng Zhen (Alex) \
 Class: Csc 47300 Website Design \
-Semester: Fall 2020 \
-Alex's Branch
+Semester: Fall 2020 
